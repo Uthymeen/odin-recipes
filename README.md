@@ -1,1 +1,1 @@
-This is a simple website for some recipes, 
+This is a simple website for some recipes, this is to help practicalize some of the basic html tutorials I have learned
